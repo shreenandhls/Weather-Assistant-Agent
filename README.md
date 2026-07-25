@@ -1,20 +1,4 @@
-# weather-assistant
-
-Simple ReAct agent
-Agent generated with `agents-cli` version `1.0.0`
-
-## Project Structure
-
-```
-weather-assistant/
-├── app/         # Core agent code
-│   ├── agent.py               # Main agent logic
-│   ├── fast_api_app.py        # FastAPI Backend server
-│   └── app_utils/             # App utilities and helpers
-├── tests/                     # Unit, integration, and load tests
-├── GEMINI.md                  # AI-assisted development guide
-└── pyproject.toml             # Project dependencies
-```
+# A Chat Bot Agent
 
 > 💡 **Tip:** Use [Antigravity CLI](https://antigravity.google/) for AI-assisted development - project context is pre-configured in `GEMINI.md`.
 
